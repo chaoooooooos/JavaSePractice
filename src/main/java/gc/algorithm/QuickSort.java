@@ -1,8 +1,12 @@
 package gc.algorithm;
 
+import java.util.Arrays;
+
 public class QuickSort {
     public static void main(String[] args) {
-
+        int[] arr = {0,3,43,-3,4,1,-4,2,4};
+        quickSort(arr);
+        System.out.println(Arrays.toString(arr));
     }
     public static void quickSort(int[] nums){
         sort(nums,0,nums.length-1);
@@ -22,7 +26,7 @@ public class QuickSort {
             swap(nums,i,j);
         }
         swap(nums,start,i);
-        sort(nums,start,i);
+        sort(nums,start,i-1);
         sort(nums,i+1,end);
 
     }
