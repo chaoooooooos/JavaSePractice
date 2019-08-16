@@ -1,10 +1,14 @@
 package gc.algorithm;
 
+import java.util.Arrays;
+
 public class MergeSort {
 
 
     public static void main(String[] args) {
-
+        int[] arr = {2,3,2,3,-12,3,324,5,23,4,12,4,34};
+        mergeSort(arr);
+        System.out.println(Arrays.toString(arr));
     }
 
     public static void mergeSort(int[] nums){

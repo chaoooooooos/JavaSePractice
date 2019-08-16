@@ -15,7 +15,7 @@ public class QuickSort {
         int i = start;
         int j = end;
         while(i<j){ //不可有等号
-            while(j>i && nums[j]>=base)
+            while(j>i && nums[j]>=base) //必须从右边（基数的对面）开始
                 j--;
             while(i<j && nums[i]<=base)
                 i++;
