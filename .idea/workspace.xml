@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3227b8-90ff-41d1-a860-4e2d3755b0a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/RandomQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/cache/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/cache/LRUCache1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/design/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/design/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/multiThread/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/withSyn/one/ProductionAndCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/withSyn/two/ProductionAndCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/javaPractice.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/sort/RandomQuickSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gc/algorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gc/algorithm/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/algorithm/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/algorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/algorithm/RandomQuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/RandomQuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/algorithm/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/algorithm/QuickSort.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/gc/algorithm/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/SortTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,10 +35,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/MergeSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="64">
+              <caret line="64" column="37" lean-forward="true" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/withSyn/one/ProductionAndCustomer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/withSyn/two/ProductionAndCustomer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/multiThread/CountDownLatchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -30,75 +65,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="185">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/RandomQuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-              <folding>
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="772" column="71" selection-start-line="772" selection-start-column="71" selection-end-line="772" selection-end-column="71" />
-              <folding>
-                <element signature="e#32010#32011#0" expanded="true" />
-                <element signature="e#32095#32096#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/cache/LRUCache.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/test/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/cache/LRUCache1.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumAdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-256">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/Singleton2.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,9 +104,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/gc/practice/Practice.java" />
         <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/RandomQuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/RandomQuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/RandomQuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/cache/LRUCache1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/design/Singleton2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/withSyn/two/ProductionAndCustomer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/multiThread/CountDownLatchTest.java" />
       </list>
     </option>
   </component>
@@ -130,9 +129,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="25" />
-    <option name="width" value="1865" />
-    <option name="height" value="1040" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -180,7 +180,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="multiThread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -189,71 +189,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="RandomQuickSort" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="BigNum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="reverse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
+              <item name="multiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="CountDownLatchTest" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -266,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565919683761" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565920567348" />
     <property name="last_opened_file_path" value="D:/mongodball/mongodball/nosql_manage_web" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -274,9 +211,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gc.multiThread" />
+      <recent name="gc.algorithm.sort" />
       <recent name="gc.algorithm" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\javaSE\JavaSePractice\src\main\java\gc" />
+      <recent name="D:\github\javaSE\JavaSePractice\src\main\java\gc\cache" />
       <recent name="D:\github\javaSE\JavaPractice\src\main\java" />
     </key>
   </component>
@@ -292,13 +233,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomQuickSort">
-    <configuration name="BigNumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.BigNum.BigNumTest" />
+  <component name="RunManager" selected="Application.CountDownLatchTest">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.algorithm.sort.BubbleSort" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.BigNum.*" />
+          <option name="PATTERN" value="gc.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.algorithm.MergeSort" />
+    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.multiThread.CountDownLatchTest" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.algorithm.*" />
+          <option name="PATTERN" value="gc.multiThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,11 +261,11 @@
       </method>
     </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.algorithm.QuickSort" />
+      <option name="MAIN_CLASS_NAME" value="gc.algorithm.sort.QuickSort" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.algorithm.*" />
+          <option name="PATTERN" value="gc.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +274,11 @@
       </method>
     </configuration>
     <configuration name="RandomQuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.algorithm.RandomQuickSort" />
+      <option name="MAIN_CLASS_NAME" value="gc.algorithm.sort.RandomQuickSort" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.algorithm.*" />
+          <option name="PATTERN" value="gc.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,7 +291,7 @@
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.algorithm.*" />
+          <option name="PATTERN" value="gc.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,11 +348,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountDownLatchTest" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.RandomQuickSort" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SortTest" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.BigNumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +368,7 @@
       <updated>1565876326435</updated>
       <workItem from="1565876330954" duration="64000" />
       <workItem from="1565884330979" duration="233000" />
-      <workItem from="1565917558510" duration="1959000" />
+      <workItem from="1565917558510" duration="2973000" />
     </task>
     <task id="LOCAL-00001" summary="添加一些注释">
       <created>1565918396232</created>
@@ -436,17 +377,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565918396232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加随机快排，实际就是取一个在[start,end]之间的数与最左（或者最右）的数交换作为基数，其他不变">
+      <created>1565919756933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565919756933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2256000" />
+    <option name="totallyTimeSpent" value="3270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -455,7 +403,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.30028328" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.30028328" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,7 +430,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加一些注释" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加一些注释" />
+    <MESSAGE value="增加随机快排，实际就是取一个在[start,end]之间的数与最左（或者最右）的数交换作为基数，其他不变" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加随机快排，实际就是取一个在[start,end]之间的数与最左（或者最右）的数交换作为基数，其他不变" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/gc/longestCommon/LongestCommonSubsequence.java">
@@ -517,13 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-256">
@@ -531,40 +473,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gc/test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -588,13 +505,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/RandomQuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/RandomQuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/ShufflePoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <caret line="6" column="9" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
           <folding>
-            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/cache/LRUCache1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/Singleton2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/cache/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="64" column="37" lean-forward="true" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/withSyn/one/ProductionAndCustomer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/withSyn/two/ProductionAndCustomer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/multiThread/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
