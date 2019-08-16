@@ -1,33 +1,35 @@
 package gc.leetcode;
 
 
-class Solution {
-    public String multiply(String num1, String num2) {
-        if(num1.charAt(0)=='0' || num2.charAt(0)=='0')
-            return "0";
-        int n1 = num1.length();
-        int n2 = num1.length();
-        int[] res = new int[n1 + n2];
-        for (int i = n1 - 1; i >= 0; i--) {
-            for (int j = n2 - 1; j >= 0; j--) {
-                int v1 = num1.charAt(i) - '0';
-                int v2 = num2.charAt(j) - '0';
-                int v = v1 * v2;
-                res[i + j + 1] = v;
-            }
-        }
-        for (int i = res.length - 1; i >= 0; i--)
-            if (res[i] > 9) {
-                res[i - 1] += res[i] / 10;
-                res[i] %= 10;
-            }
-        StringBuffer sb = new StringBuffer();
-        for (int x : res)
-            sb.append(x);
-        int idx = 0;
-        while (idx < sb.length() && sb.charAt(idx) != 0)
-            idx++;
-        return  sb.toString().substring(idx);
+import gc.tree.TreeNode;
 
+class Solution {
+    public static void main(String[] args) {
+        int[] arr = {1, 3, 5, 6, 7, 8, 9};
+        TreeNode root = helper(arr, 0, arr.length - 1);
+        print(root);
+    }
+
+    private static void print(TreeNode root) {
+        if (root != null) {
+            print(root.left);
+            System.out.print(root.val + "  ");
+            print(root.right);
+        }
+    }
+
+    public static TreeNode helper(int[] arr, int start, int end) {
+        if (arr.length == 0) return null;
+        if (start > end) return null;
+        if (start == end) {
+            return new TreeNode(arr[start]);
+        }
+        int mid = (end - start) / 2 + start;
+        TreeNode root = new TreeNode(arr[mid]);
+        root.left = helper(arr, start, mid - 1);
+        root.right = helper(arr, mid + 1, end);
+
+        return root;
     }
 }
+

@@ -1,14 +1,22 @@
 package gc.test;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.Stack;
 
 public class Main {
+    private User user = new User();
+
     public static void main(String[] args) {
-        Set<Integer> set = new HashSet<>();
-        set.add(1);
-        set.add(2);
-        System.out.println(set.toString());
-        System.out.println(set.toArray());
+        new Main();
+        System.out.println("hello");
+    }
+
+}
+
+class User{
+    public User(){
+        System.out.println("userclass init...");
     }
 }
