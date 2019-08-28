@@ -44,8 +44,6 @@ public class MergeSort {
             temp[k++] = nums[j++];
         for(int idx=start; idx<=end; idx++)
             nums[idx] = temp[idx];
-
-
     }
 
 }
