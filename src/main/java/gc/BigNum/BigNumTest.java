@@ -24,10 +24,11 @@ public class BigNumTest {
 
             String s1 = String.valueOf(a);
             String s2 = String.valueOf(b);
-            System.out.println("s1="+s1+",s2="+s2);
-            System.out.println(BigNumSub.bigNumSub(s1,s2));
-            System.out.println(BigNumSub.bigNumSub2(s1,s2));
-            System.out.println(new BigInteger(s1).subtract(new BigInteger(s2)));
+            //System.out.println("s1="+s1+",s2="+s2);
+//            if(!BigNumMulti.bigNumMulti(s1,s2).equals(new BigInteger(s1).multiply(new BigInteger(s2))))
+//                System.out.println(false);
+            System.out.println(BigNumMulti.bigNumMulti(s1, s2));
+            System.out.println(new BigInteger(s1).multiply(new BigInteger(s2)));
             System.out.println("----------------------------------------------------------");
         }
 

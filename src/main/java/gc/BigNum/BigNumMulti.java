@@ -38,8 +38,8 @@ public class BigNumMulti {
         int k = n1+n2-1;
         for(int i=n1-1;i>=0;i--){
             for(int j=n2-1;j>=0;j--) {
-                int idx = k - (n1 - 1 - i) - (n2 - 1 - j); //比如i和j都是最后一位，则此时相乘的结果应该放在最后一位，即坐标为n1+n2-1
-                //int idx = i+j+1
+                //int idx = k - (n1 - 1 - i) - (n2 - 1 - j); //比如i和j都是最后一位，则此时相乘的结果应该放在最后一位，即坐标为n1+n2-1
+                int idx = i+j+1;
                 res[idx] += arr1[i] * arr2[j];
             }
         }
