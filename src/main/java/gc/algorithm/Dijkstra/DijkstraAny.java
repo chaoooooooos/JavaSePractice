@@ -26,6 +26,7 @@ public class DijkstraAny {
                     min = result[j];
                 }
             }
+            System.out.println("k="+k);
             used[k] = true;    //将距离最小的顶点，记为已遍历
             for (int j = 0; j < adjMatrix.length; j++) {  //然后，将顶点start到其它顶点的距离与加入中间顶点k之后的距离进行比较，更新最短距离
                 if (!used[j]) {  //当顶点j未被遍历时

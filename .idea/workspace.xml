@@ -2,15 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3227b8-90ff-41d1-a860-4e2d3755b0a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gc/quartz/QuartzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quartz.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/Bigo/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/Bigo/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/Bigo/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/aiqiyi/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/aiqiyi/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/bilibili/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/jd/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/keda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/keda/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/liulishuo/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/liulishuo/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/redBook/four/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/sanqi/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/sina/one/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/sina/two/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/vivo/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/vivo/three/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/vivo/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/wuba/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/wuba/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/three/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/yongyou/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/yongyou/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gc/exam/yy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumMulti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gc/BigNum/BigNumMulti.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/BigNum/BigNumMulti.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gc/BigNum/BigNumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/BigNum/BigNumTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gc/algorithm/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/algorithm/DFS_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/DFS_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/DijkstraAny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/DijkstraAny.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/exam/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/jd/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/leetcode/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/link/reverse/PartReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/link/reverse/PartReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gc/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gc/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/algorithm/DFS_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/DFS_DP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/algorithm/Dijkstra/DijkstraAny.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/Dijkstra/DijkstraAny.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/algorithm/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/algorithm/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/exam/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/jd/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/jd/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/leetcode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/leetcode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/link/reverse/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/link/reverse/PartReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/link/reverse/PartReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/quartz/HelloJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/quartz/HelloJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gc/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gc/test/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,61 +64,20 @@
     <SUITE FILE_PATH="coverage/javaPractice$Main.ic" NAME="Main Coverage Results" MODIFIED="1565931851809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>gc.test.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/javaPractice$Main__4_.ic" NAME="Main (4) Coverage Results" MODIFIED="1567511374087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gc.redBook.two.*</FILTER>
+    </SUITE>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="javaPractice" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/quartz.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/quartz/HelloJob.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/Job.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/quartz/DateUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gc/quartz/QuartzTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gc/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="-115">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -96,6 +95,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>synch</find>
+      <find>map</find>
+      <find>ThreadlocalMap</find>
+      <find>return</find>
+      <find>system</find>
+      <find>v</find>
+      <find>system.ou</find>
+      <find>system.out</find>
+      <find>helper</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,44 +112,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/gc/practice/Practice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/RandomQuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/RandomQuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/cache/LRUCache1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/withSyn/two/ProductionAndCustomer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/multiThread/CountDownLatchTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/design/Singleton3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/design/SingletonByEnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/design/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/stack/PreTraverse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/stack/Traverse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/stack/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/tree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/tree/Traverse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/stack/GcStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/design/Singleton2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/design/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/leetcode/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/jd/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/Dijkstra.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/exam/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/test/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/DijkstraAny.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/practice/Dijkstra.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/ShufflePoker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumMulti.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/quartz.yml" />
-        <option value="$PROJECT_DIR$/src/main/resources/quartz.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/quartz/DateUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gc/quartz/QuartzTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/gc/quartz/HelloJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/link/reverse/PartReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/sina/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/sina/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/sina/two/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/sina/one/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/pdd/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/pdd/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/jd/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/redBook/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/redBook/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/redBook/four/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/redBook/three/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/two/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/three/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/DFS_DP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/qiqiyi/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/aiqiyi/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/aiqiyi/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/Bigo/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/Bigo/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/leetcode/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/Bigo/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/yy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/sanqi/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/bilibili/oneMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/bilibili/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/yongyou/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/yongyou/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/vivo/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/exam/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/vivotwo/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/vivo/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/vivo/three/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/vivo/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/liulishuo/two/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/liulishuo/one/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/liulishuo/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/liulishuo/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/DijkstraAny.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/keda/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/keda/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/wuba/two/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/exam/wuba/one/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gc/test/Main.java" />
       </list>
     </option>
   </component>
@@ -159,17 +179,20 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="70" />
-    <option name="y" value="5" />
+    <option name="x" value="910" />
+    <option name="y" value="90" />
     <option name="width" value="810" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -211,32 +234,50 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gc" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gc" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="wuba" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gc" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="wuba" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSePractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gc" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567067037303" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568295428525" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="D:/mq_mongo_redis/mongodball/nosql_manage_web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../rabbitmq-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -248,12 +289,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="gc.algorithm.Dijkstra" />
-      <recent name="gc.multiThread" />
-      <recent name="gc.algorithm.sort" />
-      <recent name="gc.algorithm" />
+      <recent name="gc.exam.wuba.two" />
+      <recent name="gc.exam.vivo.three" />
+      <recent name="gc.exam.Bigo.one" />
+      <recent name="gc.exam.xiaomi.three" />
+      <recent name="gc.exam.xiaomi.two" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\javaSE\JavaSePractice\src\main\java\gc\exam\liulishuo" />
+      <recent name="D:\github\javaSE\JavaSePractice\src\main\java\gc\exam\pdd\two" />
       <recent name="D:\github\javaSE\JavaSePractice\src\main\java\gc" />
       <recent name="D:\github\javaSE\JavaSePractice\src\main\java\gc\cache" />
       <recent name="D:\github\javaSE\JavaPractice\src\main\java" />
@@ -271,13 +315,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuartzTest">
-    <configuration name="BigNumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.BigNum.BigNumTest" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.exam.wuba.one.Main" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.BigNum.*" />
+          <option name="PATTERN" value="gc.exam.wuba.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +329,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dijkstra (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.algorithm.Dijkstra.practice.Dijkstra" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.exam.keda.Main" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.algorithm.Dijkstra.practice.*" />
+          <option name="PATTERN" value="gc.exam.keda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DijkstraAny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.algorithm.Dijkstra.DijkstraAny" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.test.Main" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.algorithm.Dijkstra.*" />
+          <option name="PATTERN" value="gc.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +355,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuartzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.quartz.QuartzTest" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.exam.wuba.two.Main" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.quartz.*" />
+          <option name="PATTERN" value="gc.exam.wuba.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,12 +368,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShufflePoker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gc.algorithm.ShufflePoker" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.exam.keda.two.Main" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gc.algorithm.*" />
+          <option name="PATTERN" value="gc.exam.keda.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,11 +430,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuartzTest" />
-        <item itemvalue="Application.BigNumTest" />
-        <item itemvalue="Application.ShufflePoker" />
-        <item itemvalue="Application.Dijkstra (1)" />
-        <item itemvalue="Application.DijkstraAny" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -427,6 +471,35 @@
       <workItem from="1566957567188" duration="7934000" />
       <workItem from="1567057956037" duration="2824000" />
       <workItem from="1567089424275" duration="1198000" />
+      <workItem from="1567126916909" duration="643000" />
+      <workItem from="1567237139064" duration="4784000" />
+      <workItem from="1567301120817" duration="10882000" />
+      <workItem from="1567336017052" duration="9716000" />
+      <workItem from="1567351136819" duration="82000" />
+      <workItem from="1567419080414" duration="1534000" />
+      <workItem from="1567422428523" duration="3104000" />
+      <workItem from="1567495332344" duration="86000" />
+      <workItem from="1567498236270" duration="13909000" />
+      <workItem from="1567558381811" duration="47000" />
+      <workItem from="1567593336967" duration="7330000" />
+      <workItem from="1567645634489" duration="33000" />
+      <workItem from="1567647839630" duration="1075000" />
+      <workItem from="1567649550415" duration="225000" />
+      <workItem from="1567748589263" duration="1152000" />
+      <workItem from="1567762396836" duration="41000" />
+      <workItem from="1567767209994" duration="4573000" />
+      <workItem from="1567778386068" duration="5636000" />
+      <workItem from="1567846310508" duration="3071000" />
+      <workItem from="1567926040688" duration="10356000" />
+      <workItem from="1568024077028" duration="6296000" />
+      <workItem from="1568079370151" duration="6645000" />
+      <workItem from="1568181258033" duration="2583000" />
+      <workItem from="1568189135949" duration="6298000" />
+      <workItem from="1568208056794" duration="6088000" />
+      <workItem from="1568254370524" duration="2096000" />
+      <workItem from="1568289085367" duration="4556000" />
+      <workItem from="1568366285650" duration="48000" />
+      <workItem from="1568377625523" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="添加一些注释">
       <created>1565918396232</created>
@@ -460,12 +533,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77335000" />
+    <option name="totallyTimeSpent" value="190908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22050938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22922252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,8 +548,8 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.5679887" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.52549577" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.16430596" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44475922" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -509,172 +583,109 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/gc/stack/Main.java</url>
-          <line>5</line>
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/redBook/two/Main.java</url>
+          <line>19</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/gc/stack/Main.java</url>
-          <line>6</line>
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/redBook/two/Main.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/gc/stack/Main.java</url>
-          <line>4</line>
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/redBook/two/Main.java</url>
+          <line>14</line>
           <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/redBook/three/Main.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/two/Main.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/two/Main.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/two/Main.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/two/Main.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gc/test/Main.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/Singleton3.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/SingletonByEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Stack.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Vector.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/tree/Traverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/stack/GcStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/stack/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/Singleton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/design/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Arrays.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/leetcode/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/jd/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/Dijkstra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="2939" column="33" selection-start-line="2939" selection-start-column="33" selection-end-line="2939" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Formatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2492" column="21" selection-start-line="2492" selection-start-column="21" selection-end-line="2492" selection-end-column="21" />
-          <folding>
-            <element signature="e#101735#101736#0" expanded="true" />
-            <element signature="e#101781#101782#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/util/concurrent/AtomicDouble.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="183" column="34" selection-start-line="183" selection-start-column="34" selection-end-line="183" selection-end-column="34" />
+        <state relative-caret-position="161">
+          <caret line="652" selection-start-line="652" selection-end-line="652" />
           <folding>
             <element signature="e#6252#6253#0" expanded="true" />
             <element signature="e#6320#6321#0" expanded="true" />
@@ -682,45 +693,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/util/concurrent/AtomicLongMap.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/pdd/one/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="32" column="67" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
+        <state relative-caret-position="214">
+          <caret line="51" column="17" selection-end-line="114" />
           <folding>
-            <element signature="e#1271#1272#0" expanded="true" />
-            <element signature="e#1336#1337#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1771#1772#0" expanded="true" />
+            <element signature="e#1803#1804#0" expanded="true" />
+            <element signature="e#2148#2149#0" expanded="true" />
+            <element signature="e#2180#2181#0" expanded="true" />
+            <element signature="e#2207#2208#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/test/Main.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="4736">
+          <caret line="187" column="23" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="30" />
+          <folding>
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8160">
+          <caret line="297" column="17" selection-start-line="297" selection-start-column="17" selection-end-line="297" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/pdd/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/DijkstraAny.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/stack/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="31" selection-end-column="50" />
+        <state relative-caret-position="64">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/practice/Dijkstra.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/jd/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="237">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/redBook/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/redBook/one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-769">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/redBook/four/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/redBook/three/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="126" column="43" selection-start-line="126" selection-start-column="43" selection-end-line="126" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/ShufflePoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/longestCommon/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="117" column="3" selection-start-line="117" selection-start-column="3" selection-end-line="124" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#schedule#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/three.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="704">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -738,160 +859,236 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/DFS_DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="589">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/ShufflePoker.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/two/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="589">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/three/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="56" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/Bigo/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/aiqiyi/one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/Bigo/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/leetcode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/Bigo/one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/xiecheng/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/aiqiyi/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="81" column="4" lean-forward="true" selection-start-line="81" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/sina/two/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/sanqi/one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="149" column="28" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/bilibili/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/yongyou/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/yongyou/one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="47" column="4" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/vivo/one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/vivo/three/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="37" column="37" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/vivo/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="40" column="7" selection-start-line="10" selection-start-column="6" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/liulishuo/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/yy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/Dijkstra/DijkstraAny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/liulishuo/one/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/keda/two/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="22" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/keda/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumAdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumSub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumMulti.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1312">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="288">
+          <caret line="41" column="9" selection-start-line="9" selection-start-column="5" selection-end-line="41" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#bigNumAdd2#0;class#BigNumAdd#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/BigNum/BigNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/quartz.yml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/simpl/RAMJobStore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/JobKey.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/JobBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/core/QuartzScheduler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="277" column="16" selection-start-line="277" selection-start-column="16" selection-end-line="277" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/Scheduler.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/xiaomi/one/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/impl/StdScheduler.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/wuba/two/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="384">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        <state relative-caret-position="93">
+          <caret line="765" selection-start-line="765" selection-end-line="765" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/algorithm/sort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/exam/wuba/one/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="36" />
+        <state relative-caret-position="117">
+          <caret line="27" column="58" selection-start-column="4" selection-end-line="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/quartz.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gc/test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/quartz/HelloJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/Job.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/quartz/DateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gc/quartz/QuartzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="-115">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
